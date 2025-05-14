@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im a a Computer Science Engineering student who codes, scrapes the web, and builds cool stuff. Fluent in Python, SQL, and the art of endless curiosity
+Im a a Computer Science Engineering student who codes and builds cool stuff. Fluent in Python, SQL, and have the art of endless curiosity
 
 
 ## 🌐 Socials:
