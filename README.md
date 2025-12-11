@@ -11,9 +11,7 @@ Im a a Computer Science Engineering student who codes and builds cool stuff. Flu
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=advaithdp02&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=advaithdp02&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=advaithdp02&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=advaithdp02&theme=dark)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=advaithdp02&theme=radical&no-frame=false&no-bg=true&margin-w=4)
