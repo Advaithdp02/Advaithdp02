@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im a a Computer Science Engineering student who codes and builds cool stuff. Fluent in Python, SQL, and have the art of endless curiosity
+Computer Science Engineering student with hands-on experience in MERN stack development, building end-to-end web applications and REST APIs. Curious, adaptable, and driven to solve real-world problems through code
 
 
 ## 🌐 Socials:
